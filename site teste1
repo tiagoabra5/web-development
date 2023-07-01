@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>SneakerSpot</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="nome-loja">
+    <label>SneakerSpot</label>
+  </div>
+
+  <div class="butao-carrinho">
+    <form action="#">
+      <button type="submit">:)</button>
+    </form>
+  </div>
+
+  <div class="botao-login-cadastro">
+    <form action="#">
+      <button type="submit">login/cadastro</button>
+    </form>
+  </div>
+
+  <section>
+    <div class="produto1">
+      <h1>Produto1</h1>
+      <img src="https://m.media-amazon.com/images/I/61szCWDiC4L._AC_SY500_.jpg" class="tenis">
+      <button type="submit">comprar</button>
+    </div>
+
+    <div class="produto2">
+      <h1>Produto2</h1>
+      <img src="https://m.media-amazon.com/images/I/61szCWDiC4L._AC_SY500_.jpg" class="tenis">
+      <button type="submit">comprar</button>
+    </div>
+
+    <div class="produto3">
+      <h1>Produto3</h1>
+      <img src="https://m.media-amazon.com/images/I/61szCWDiC4L._AC_SY500_.jpg" class="tenis">
+      <button type="submit">comprar</button>
+    </div>
+  </section>
+</body>
+
+</html>
